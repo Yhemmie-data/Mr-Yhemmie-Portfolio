@@ -38,21 +38,30 @@ This research delves into understanding customer preferences within Nigeria's cu
 
 ### Gender Distribution:
 The chart below provides a comprehensive snapshot of the purchasing behavior of customers over the past three years, segmented by gender. Among1000 customers who have purchase cars from Amiable Ltd over the past three years, there is a balanced representation of genders with Females shown a slightly higher engagement in the purchase of used cars over the past three years, constituting 52% of the total customer base while males account for 48% of the customer base, showcasing a substantial presence in the market but slightly trailing behind their female counterpart.
-**image 1**
+
+<img width="357" alt="gender 02" src="https://github.com/Yhemmie-data/Mr-Yhemmie-Portfolio/assets/162053652/d91a43b0-e755-43ff-a3c0-2bad38b2800e">
+ 
 With majority of female customers exhibitting robust interest in used car purchases, this maybe as a result of changing preferences, increasing financial independence, or a recognition of the value proposition offered by pre-owned vehicles. Though with male constituting a slightly smaller portion, male customers remain a significant force in the used car market. Understanding the specific preferences and motivations of male customers can unlock opportunities for targeted marketing and service offerings.  
 
 ### Purchasing Behaviour by Age Group:
 The histogram below illustrates the distribution of past three years' used car-related purchases across various age groups. Each bar on the chart corresponds to a specific age range, and its height represents the count of purchases within that category. There is a noticeable peak in the 1975 - 1979 age group, indicating a higher volume of purchases in this age range. This segment represents customers in their mid-40s to early 50s, suggesting a significant market presence among individuals in this life stage. The age groups surrounding the peak (1960 - 1969 and 1980 - 1984) also show substantial purchase activity, reflecting a broad customer base across different age demographics. The histogram showcases a generally positive trend, with a larger number of purchases concentrated in the middle-aged and older customer segments.
-**image 2**
+
+<img width="441" alt="Age histogram" src="https://github.com/Yhemmie-data/Mr-Yhemmie-Portfolio/assets/162053652/72ec8ccc-a556-469d-8cd4-35313fc0577b">
+
 Marketing and promotional efforts could be strategically targeted towards the peak age groups, acknowledging the higher purchasing activity within these segments. Opportunities for developing products or services catering to the preferences and needs of the middle-aged and older customer segments are apparent. Considering the younger age groups, represented by the bars on the left side of the histogram, there is still a notable presence, indicating potential growth areas for market expansion and engagement.
 
 
 ### Purchasing behaviour by Job categories
 The chart below provides a visual representation of the variations in used car purchases across different job categories. Employees in the Financial Services and Manufacturing sectors have shown a significant interest in the purchasing power of used cars which accounted for 20% of the total purchase, followed closely by health sector (15%) which is the second-highest in terms of used car purchases. Job categories like Agriculture, Entertainment, Property, and Telecommunications have fewer used car purchase of 3%, 4% and 3% respectively. This could be attributed to income levels, job requirements, or other factors specific to all industry.
-**image 3**
-### PURCHASing behaviour by Wealth Index
+
+<img width="409" alt="job categories" src="https://github.com/Yhemmie-data/Mr-Yhemmie-Portfolio/assets/162053652/9e27ffd9-9999-442e-bd4c-76674c7563be">
+
+### Purchasing behavior by Wealth Index
 This visualization provides a clear representation of the distribution of used car purchases among different wealth index categories, according to data the majority of used car purchases are made by Mass Customers, this could imply that a significant portion of the market for used cars is among individuals with a standard or average wealth status constituting 51% of the total purchases compared to affluent Customers and High Net Worth individuals having fewer purchases representing 24% and 25% respectively.
-**image 4**
+
+<img width="430" alt="WEALTH INDEX" src="https://github.com/Yhemmie-data/Mr-Yhemmie-Portfolio/assets/162053652/1bb04537-d5e2-4126-bd62-22bc57bc0e7a">
+
+
 
 ## Recommendation
 Based on the comprehensive analysis of customer demographics and purchasing behavior among Amiable Ltd.’s 1000-strong customer base, the following recommendation is proposed for targeting the audience effectively
