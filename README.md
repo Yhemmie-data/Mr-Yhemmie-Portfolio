@@ -8,6 +8,7 @@
 - [CUSTOMERS PURCHASING BEHAV](CUSTOMERS-PURCHASING-BEHAVIOR)
 - [Recommendation](Recommendation)
 - [Conclusion](Conclusion)
+- [Power BI report](Power-BI-report)
 
 ### Project Preview
 This study delves into the intricate landscape of customer demographics and purchasing behaviors within Nigeria's dynamic automotive market, focusing specifically on a robust sample of 1000 customers associated with Amiable Ltd. Through meticulous analysis of data derived from the company's sales over the past three years, encompassing gender distribution, age demographics, occupational categories, wealth indices, and regional variances, the research aims to extract actionable insights. By employing a comprehensive approach, the study seeks to provide Amiable Ltd with a nuanced understanding of customer behavior, thereby facilitating informed decision-making and strategic planning. The overarching objective is to identify and target specific audience segments within the Nigerian market for used cars, empowering Amiable Ltd to craft tailored strategies aligned with the unique characteristics of its customer base. Through this endeavor, the research endeavors to equip Amiable Ltd with the requisite tools to thrive in the vibrant and diverse landscape of Nigeria's used car industry.
@@ -78,5 +79,10 @@ Based on the comprehensive analysis of customer demographics and purchasing beha
 Understanding these dynamics is paramount for Amiable Ltd to tailor its strategies effectively and capitalize on the opportunities presented by the growing demand for used cars in the Nigerian market. By recognizing and addressing the specific needs and preferences of target customers, Amiable Ltd can enhance customer satisfaction, foster loyalty, and strengthen its competitive position in the industry.
 In essence, the study's findings provide a solid foundation for Amiable Ltd to refine its marketing strategies, customize its offerings, and deepen its understanding of the evolving landscape of Nigeria's used car market. Armed with these insights, Amiable Ltd is poised to navigate the complexities of the industry and establish itself as a trusted provider of quality pre-owned vehicles to its discerning clientele.
 
+
+### Power BI report
+
+
+<img width="669" alt="SALES TARGET" src="https://github.com/Yhemmie-data/Mr-Yhemmie-Portfolio/assets/162053652/bfa6ecfa-16fa-4519-b903-09894cb7f336">
 
      
